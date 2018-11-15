@@ -1,0 +1,20 @@
+{
+  "name": "abort-timeout",
+  "version": "1.0.0",
+  "description": "auto cancelable timeouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-jenson/abort-timeout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-jenson/abort-timeout/issues"
+  },
+  "homepage": "https://github.com/kevin-jenson/abort-timeout#readme"
+}
